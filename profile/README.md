@@ -1,5 +1,5 @@
 # Sejam Todos Bem Vindos a Elysium
-<img src="Elysium.png" alt="Elysium">
+<a href="https://imgur.com/zeDrmqc"><img src="https://i.imgur.com/zeDrmqc.png" title="source: imgur.com" /></a>
 
 ## Quem Somos ?? 🌟
 
