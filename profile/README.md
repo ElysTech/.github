@@ -1,5 +1,5 @@
 # Sejam Todos Bem Vindos a Elysium
-<img src="./Elysium.png" alt="Elysium">
+<img src="Elysium.png" alt="Elysium">
 
 ## Quem Somos ?? 🌟
 
